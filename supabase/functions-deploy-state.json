@@ -1,0 +1,13 @@
+{
+  "projectId": "72296984",
+  "functions": {
+    "asaas-webhook": {
+      "hasChanged": false,
+      "hash": "c8475256a91e1eccd54d4ccd5c71d502e95f027c5390c0cd1a90838dea7bd0fe"
+    },
+    "create-payment": {
+      "hasChanged": false,
+      "hash": "c29b87986b665ef422dbd8650b2c8682f739fe7f082bf8281271140aac820223"
+    }
+  }
+}
